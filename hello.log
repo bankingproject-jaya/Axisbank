@@ -1,0 +1,4 @@
+Hello Everyone
+GM/GA/GE
+/home/ec2-user/hello.sh: line 3: unexpected EOF while looking for matching `"'
+/home/ec2-user/hello.sh: line 5: syntax error: unexpected end of file

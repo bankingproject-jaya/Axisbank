@@ -1,0 +1,4 @@
+JENKINS _ URL = http://18.141.170.158:8080/
+JENKINS _ USERNAME = jayaveltechnologies
+JENKINS _ PASSWORD = password
+
