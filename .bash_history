@@ -1,253 +1,3 @@
-file devops.txt
-file jv.txt
-cd ..
-ls
-file python
-cd/dev/
-pwd
-ls -la
-df -h
-cd ~
-file /dev/xvda2
-ls
-clear
-cd python/
-ls
-wc devops.txt
-wc -l devops.txt
-wc -w devops.txt
-wc -c devops.txt
-uname
-mkdir Test
-ls
-mkdir -v Devops
-mkdir -v jayavel
-ls
-mkdir -p jv2/jv3
-ls
-mkdir -vp Devops/Linux/Shellscript/Git/Maven/Appachtomct/Sonarqube/Nexus/jv2/jv3/jenkins
-ls
-sudo su -
-tree
-sudo su -
-ls
-tree
-ls
-ls -l
-touch jayavel.txt
-clear
-ls
-ls -l
-ll
-ls -a
-ls -la
-uname
-clear
-uname
-ls
-ls -l
-ll
-cler
-clear
-mkdir -m 700 python
-ls -l
-mkdir 888 java
-ls -l
-ls -a
-ls -ltr
-ls -li
-sudo su -
-ls
-ls -lh
-pwd
-ls
-cd Devops/Linux/Shellscript/Git/Maven/Appachtomct/Sonarqube/Nexus/jv2/jv3/jenkins/
-cd ..
-cd -
-cd ..
-pwd
-cd ../..
-cd ~
-touch
-ls -l
-rmdir Test
-ls -l
-rmdir python
-rm -f python
-ls -l
-rm -f jayavel.txt
-ls -l
-pwd
-ls
-uname
-clear
-touch jayavel.txt
-ls -l
-cat jayavel.txt
-touch python
-ls -l
-rm -rf 888
-ll
-rm -rf devops
-
-rm -rf jayavel
-rm -rf jv2
-rm -rf jv.txt
-ll
-rm -rf java
-ll
-vi jayavel.txt
-ll
-cat jayavel.txt
-ll
-touch jayavel.txt
-ls -l
-ls
-ls-l
-clear
-ls -l
-touch Devops/Test.sh
-mkdir python
-ls -l
-mkdir python
-cat python
-ll
-ls
-ls -l
-touch python/Test.sh
-touch python
-ll
-touch python/
-mkdir -m python
-ll
-mkdir -p python
-mkdir python
-ll
-mkdir Python
-ll
-clear
-find . -type f -emty
-find . -type f -empty
-find . -type d -empty
-ls -l
-umask
-ls -l
-umask 222
-umask
-chmod 000 jayavel.txt
-ls -l
-cat jayavel.txt
-chmod 444 jayavel.txt
-ll
-cat jayavel.txt
-chmod 766 jayavel.txt
-ll
-chmod 777 jayavel.txt
-ll
-chmod 700 devops
-chmod 700 Devops
-ll
-ls -l Devops/
-clear
-ls -l Devops
-chmod -R 700 Devops
-ll
-uname
-chmod ugo - rwx jayavel.txt   
-ls -l
-chmod Ugo - rwx jayavel.txt
-ls -l
-clear
-chmod +r jayavel.txt
-ll
-  chmod ugo-rwx jayavel.txt
-ls -l
-chmod +r jayavel.txt
-ls -l
-chmod u+rwx,go+rw jayavel.txt
-ls -l
-chmod ugo+rwx jayavel.txt
-ll
-chown root jyavel.txt
-sudo su -
-sudo su
-uname
-vi jvlsflink.txt
-ls -l
-cat jvlsflink.txt
-cat jvl.txt
-cat jvlsflink.txt
-nano jayaveL.TXT
-nano jayavel.txt
-ls
-vi Python.txt
-ct python.txt
-cat Python.txt
-sudo su -
-clear
-vim vimtest.txt
-sudo su -
-ls
-cd ~
-ls -l
-clear
-ls-l
-ls -l
-vim sudoers
-sudo su -
-clear
-nano nanotest.txt
-uname
-echo Hello world
-echo Hello    world
-echo "Hello           world"
-echo 'Hello           world,
-
-
-echo 'Hello        world,
-
-
-!!:s^c
-echo 'Hello        world,
-
-
-echo 'Hello       world"
-
-
-'
-clear
-cat python
-cat nano.txt
-ls
-cat nanotest.txt
-ls
-cat python/jayavel.txt
-cat Python/jayavel.txt
-cd Python/
-cat jayavel.txt
-ls
-cat depaak.txt jayavel.txt jvl.txt
-cd ..
-ls
-clear
-cd ..
-ls
-uname
-ls
-cd ..
-pwd
-cat Python/jayavel.txt
-cat Python/nanotest.txt
-cat Python/jvlsflink.txt
-cat /Python/jvlsflink.txt
-ll
-ls
-cat nanotest.txt
-exit
-uname
-ls
-cat Python
-clear
 cat nanotest.txt
 ls
 pwd
@@ -998,3 +748,253 @@ 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
 git push icicibank master
 git push Citybank master
 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
+uname
+git commit -a -m "updated in dev branch"
+git status
+clear
+uname
+clear
+cd Desktop/icicibank/
+pwd
+git status
+touch test.ch
+touch test.ty
+git status
+git clean -n
+git clean -f
+ls
+git status
+vi test.ch
+vi test.ty
+git status
+git add .
+git status
+git reset
+git status
+git add *
+git status
+git reset test.ty
+git status
+vi DBUtils.java
+git status
+clear
+git add .
+git status
+git commit -m "add new files"
+git push Citybank master
+clear
+git push Citybank master
+clear
+git log
+git revert 16e14dff757d826
+clear
+ls
+cat DBUtils.java
+git revert 16e14dff757d826
+cat DBUtils.java
+git push Citibank master
+clear
+touch.classpath
+touch .classpath
+touch .project
+git status
+mkdir node_modules
+git status
+touch node_modules/test.c
+git status
+vi .gitignore
+git status
+ls
+clear
+ls -la
+git status
+git add .
+git status
+git commit -m "added gitignore"
+git push Citybank master
+clear
+git push Citybank master
+ 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
+git push Citybank master
+clear
+git push Citybank master
+clear
+git push Citybank master
+clear
+git push Citybank master
+[200~[ec2-user@ip-172-31-11-199 icicibank]$
+git push Citybank master
+clear
+git push Citybank master
+git branch
+git branch development
+git branch
+git checkout development
+git branch
+vi DBUtils.java
+uname
+clear
+cd Desktop/icicibank/
+pwd
+git status
+git add .
+git status
+git commit -m "add new files"
+git push Citybank master
+clear
+git push Citybank master
+clear
+git push Citybank master
+clear
+git push Citybank master
+clear
+git push Citybank master
+clear
+ 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
+git push Citybank master
+ ghp_fSTCN3tcJpI1UiMcfw4vU6vY1AVLeT47c52
+git push Citybank master
+ ghp_fSTCN3tcJpI1UiMcfw4vU6vY1AVLeT47c52
+git push Citybank master
+clear
+ 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
+git push Citybank master
+ ghp_fSTCN3tcJpI1UiMcfw4vU6vY1AVLeT47c52
+git push Citybank master
+clear
+ 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
+git push Citybank master
+ ghp_fSTCN3tcJpI1UiMcfw4vU6vY1AVLeT47c52
+git push Citybank master
+clear
+ ghp_fSTCN3tcJpI1UiMcfw4vU6vY1AVLeT47c52
+git push Citybank master
+git branc
+git branch
+clear
+git branch
+vi DBUtils.java
+git commit -a -m "updated in dev branch"
+git branch
+cat DBUtils.java
+git checkoutmaster
+git checkout master
+cat DBUtils.java
+git branch
+git diff development
+clear
+git branch
+git merge development
+git branch
+vi stringUtils.java
+vi stringutils.java
+git commit -a -m "updated in master branch"
+git checkout development
+cat stringutils.java
+git branch
+vi stringutils.java
+git commit -a -m "updated in dev branch"
+git checkout master
+clear
+git branch
+git diff development
+git branch
+git merge development
+git checkout -b stage
+git branch
+git push Citybank master stage
+uname
+clear
+cd Desktop/icicibank/
+clear
+git status
+git add .
+git status
+clear
+git status
+git commit -m "added new files"
+clear
+git status
+git tag
+git branch
+git tag Citybankv1.0.0
+git tag
+git push Citybank Citybankv1.0.0
+clear
+git status
+vi deploy.sh
+git status
+git DBUtils.java
+vi DBUtils.java
+git status
+clear
+git stash save "login feature"
+git stash list
+git status
+git stash apply
+git status
+git stash list
+git stash drop stash@{0}
+git stash list
+git commit -a -m "updated ..."
+clear
+git branch
+vi stringutils.java
+git commit -a -m "updated"
+vi deploy.sh
+git commit -a -m "updated"
+git log
+clear
+cat stringutils.java
+cat deploy.sh
+git checkout mater
+cat stringutils.java
+cat deploy.sh
+git branch 
+git git cherry-pick 8f66f2c4c56608f
+clear
+cat DBUtils.java
+cat stringutils.java
+cat deploy.sh
+ls
+vi test.c
+git status
+git commit -a -m "updared script"
+git remote -v
+cat DBUtils.java
+git fech origin development
+git fetch origin development
+uname
+clear
+ls -la ~/. ssh
+clear
+ls -la ~/.ssh
+rm -f ~/.ssh/id_*
+ls -l ~/.ssh/
+rm -f ~/.ssh/known_hosts
+ls -la ~/.ssh/
+ssh-keygen
+clear
+ls -la ~/.ssh/
+cat ~/.ssh/id_rsa.pub
+clear
+ls -la ~/.ssh/
+ssh -T git@github.com
+ls -la ~/.ssh/
+cat ~/.ssh/known_hosts
+ls -la ~/.ssh/
+clear
+cat ~/.ssh/id_rsa.pub
+clear
+cd Desktop/icicibank/
+pwd
+git status
+git remote-v
+git remote -v
+git remote add jurl [200~https://github.com/bankingsector-appsl/Citybank.git~
+git remote -v
+git push Citybank master
+git push jurl master
+git pull jurl master
+uname
+clear
