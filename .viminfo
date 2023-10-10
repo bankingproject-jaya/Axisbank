@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1696608697,,"wq"
+|2,0,1696935942,,"wq"
 :q
 |2,0,1696334211,,"q"
 :q!
@@ -44,230 +44,276 @@
 |3,1,36,0,1,0,1694947121,"#"
 
 # File marks:
-'0  1  49  ~/Desktop/icicibank/.git/yesbank/yesbank/stringutils.java
-|4,48,1,49,1696608697,"~/Desktop/icicibank/.git/yesbank/yesbank/stringutils.java"
-'1  1  61  ~/Desktop/icicibank/.git/yesbank/yesbank/DButils.java
-|4,49,1,61,1696608642,"~/Desktop/icicibank/.git/yesbank/yesbank/DButils.java"
-'2  1  35  ~/Desktop/icicibank/test.c
-|4,50,1,35,1696403713,"~/Desktop/icicibank/test.c"
-'3  4  24  ~/Desktop/icicibank/deploy.sh
-|4,51,4,24,1696400357,"~/Desktop/icicibank/deploy.sh"
-'4  3  24  ~/Desktop/icicibank/stringutils.java
-|4,52,3,24,1696400114,"~/Desktop/icicibank/stringutils.java"
-'5  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,53,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
-'6  1  54  ~/Desktop/icicibank/deploy.sh
-|4,54,1,54,1696398619,"~/Desktop/icicibank/deploy.sh"
-'7  1  54  ~/Desktop/icicibank/deploy.sh
-|4,55,1,54,1696398619,"~/Desktop/icicibank/deploy.sh"
-'8  1  54  ~/Desktop/icicibank/stringutils.java
-|4,56,1,54,1696334823,"~/Desktop/icicibank/stringutils.java"
-'9  1  54  ~/Desktop/icicibank/stringutils.java
-|4,57,1,54,1696334823,"~/Desktop/icicibank/stringutils.java"
+'0  1  21  ~/DBUtils.java
+|4,48,1,21,1696935942,"~/DBUtils.java"
+'1  1  32  ~/Desktop/yesbank/DBUtils.java
+|4,49,1,32,1696926579,"~/Desktop/yesbank/DBUtils.java"
+'2  1  34  ~/Desktop/yesbank/test.py
+|4,50,1,34,1696926428,"~/Desktop/yesbank/test.py"
+'3  1  40  ~/Desktop/yesbank/test.c
+|4,51,1,40,1696926378,"~/Desktop/yesbank/test.c"
+'4  1  47  ~/Desktop/yesbank/deploy.sh
+|4,52,1,47,1696925461,"~/Desktop/yesbank/deploy.sh"
+'5  1  21  ~/Desktop/yesbank/DBUtils.java
+|4,53,1,21,1696925350,"~/Desktop/yesbank/DBUtils.java"
+'6  1  52  ~/Desktop/yesbank/stringutils.java
+|4,54,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+'7  1  60  ~/Desktop/yesbank/DBUtils.java
+|4,55,1,60,1696921980,"~/Desktop/yesbank/DBUtils.java"
+'8  1  60  ~/Desktop/yesbank/DBUtils.java
+|4,56,1,60,1696921980,"~/Desktop/yesbank/DBUtils.java"
+'9  1  49  ~/Desktop/icicibank/.git/yesbank/yesbank/stringutils.java
+|4,57,1,49,1696608697,"~/Desktop/icicibank/.git/yesbank/yesbank/stringutils.java"
 
 # Jumplist (newest first):
--'  1  49  ~/Desktop/icicibank/.git/yesbank/yesbank/stringutils.java
-|4,39,1,49,1696608697,"~/Desktop/icicibank/.git/yesbank/yesbank/stringutils.java"
--'  1  61  ~/Desktop/icicibank/.git/yesbank/yesbank/DButils.java
-|4,39,1,61,1696608642,"~/Desktop/icicibank/.git/yesbank/yesbank/DButils.java"
--'  1  61  ~/Desktop/icicibank/.git/yesbank/yesbank/DButils.java
-|4,39,1,61,1696608642,"~/Desktop/icicibank/.git/yesbank/yesbank/DButils.java"
--'  1  35  ~/Desktop/icicibank/test.c
-|4,39,1,35,1696403713,"~/Desktop/icicibank/test.c"
--'  1  35  ~/Desktop/icicibank/test.c
-|4,39,1,35,1696403713,"~/Desktop/icicibank/test.c"
--'  1  35  ~/Desktop/icicibank/test.c
-|4,39,1,35,1696403713,"~/Desktop/icicibank/test.c"
--'  1  35  ~/Desktop/icicibank/test.c
-|4,39,1,35,1696403713,"~/Desktop/icicibank/test.c"
--'  4  24  ~/Desktop/icicibank/deploy.sh
-|4,39,4,24,1696400357,"~/Desktop/icicibank/deploy.sh"
--'  4  24  ~/Desktop/icicibank/deploy.sh
-|4,39,4,24,1696400357,"~/Desktop/icicibank/deploy.sh"
--'  4  24  ~/Desktop/icicibank/deploy.sh
-|4,39,4,24,1696400357,"~/Desktop/icicibank/deploy.sh"
--'  4  24  ~/Desktop/icicibank/deploy.sh
-|4,39,4,24,1696400357,"~/Desktop/icicibank/deploy.sh"
--'  4  24  ~/Desktop/icicibank/deploy.sh
-|4,39,4,24,1696400357,"~/Desktop/icicibank/deploy.sh"
--'  4  24  ~/Desktop/icicibank/deploy.sh
-|4,39,4,24,1696400357,"~/Desktop/icicibank/deploy.sh"
--'  4  24  ~/Desktop/icicibank/deploy.sh
-|4,39,4,24,1696400357,"~/Desktop/icicibank/deploy.sh"
--'  4  24  ~/Desktop/icicibank/deploy.sh
-|4,39,4,24,1696400357,"~/Desktop/icicibank/deploy.sh"
--'  1  54  ~/Desktop/icicibank/deploy.sh
-|4,39,1,54,1696400311,"~/Desktop/icicibank/deploy.sh"
--'  1  54  ~/Desktop/icicibank/deploy.sh
-|4,39,1,54,1696400311,"~/Desktop/icicibank/deploy.sh"
--'  1  54  ~/Desktop/icicibank/deploy.sh
-|4,39,1,54,1696400311,"~/Desktop/icicibank/deploy.sh"
--'  1  54  ~/Desktop/icicibank/deploy.sh
-|4,39,1,54,1696400311,"~/Desktop/icicibank/deploy.sh"
--'  1  54  ~/Desktop/icicibank/deploy.sh
-|4,39,1,54,1696400311,"~/Desktop/icicibank/deploy.sh"
--'  1  54  ~/Desktop/icicibank/deploy.sh
-|4,39,1,54,1696400311,"~/Desktop/icicibank/deploy.sh"
--'  1  54  ~/Desktop/icicibank/deploy.sh
-|4,39,1,54,1696400311,"~/Desktop/icicibank/deploy.sh"
--'  1  54  ~/Desktop/icicibank/deploy.sh
-|4,39,1,54,1696400311,"~/Desktop/icicibank/deploy.sh"
--'  3  24  ~/Desktop/icicibank/stringutils.java
-|4,39,3,24,1696400114,"~/Desktop/icicibank/stringutils.java"
--'  3  24  ~/Desktop/icicibank/stringutils.java
-|4,39,3,24,1696400114,"~/Desktop/icicibank/stringutils.java"
--'  3  24  ~/Desktop/icicibank/stringutils.java
-|4,39,3,24,1696400114,"~/Desktop/icicibank/stringutils.java"
--'  3  24  ~/Desktop/icicibank/stringutils.java
-|4,39,3,24,1696400114,"~/Desktop/icicibank/stringutils.java"
--'  3  24  ~/Desktop/icicibank/stringutils.java
-|4,39,3,24,1696400114,"~/Desktop/icicibank/stringutils.java"
--'  3  24  ~/Desktop/icicibank/stringutils.java
-|4,39,3,24,1696400114,"~/Desktop/icicibank/stringutils.java"
--'  3  24  ~/Desktop/icicibank/stringutils.java
-|4,39,3,24,1696400114,"~/Desktop/icicibank/stringutils.java"
--'  3  24  ~/Desktop/icicibank/stringutils.java
-|4,39,3,24,1696400114,"~/Desktop/icicibank/stringutils.java"
--'  3  24  ~/Desktop/icicibank/stringutils.java
-|4,39,3,24,1696400114,"~/Desktop/icicibank/stringutils.java"
--'  3  24  ~/Desktop/icicibank/stringutils.java
-|4,39,3,24,1696400114,"~/Desktop/icicibank/stringutils.java"
--'  3  24  ~/Desktop/icicibank/stringutils.java
-|4,39,3,24,1696400114,"~/Desktop/icicibank/stringutils.java"
--'  3  24  ~/Desktop/icicibank/stringutils.java
-|4,39,3,24,1696400114,"~/Desktop/icicibank/stringutils.java"
--'  3  24  ~/Desktop/icicibank/stringutils.java
-|4,39,3,24,1696400114,"~/Desktop/icicibank/stringutils.java"
--'  3  24  ~/Desktop/icicibank/stringutils.java
-|4,39,3,24,1696400114,"~/Desktop/icicibank/stringutils.java"
--'  3  24  ~/Desktop/icicibank/stringutils.java
-|4,39,3,24,1696400114,"~/Desktop/icicibank/stringutils.java"
--'  3  24  ~/Desktop/icicibank/stringutils.java
-|4,39,3,24,1696400114,"~/Desktop/icicibank/stringutils.java"
--'  1  54  ~/Desktop/icicibank/stringutils.java
-|4,39,1,54,1696400062,"~/Desktop/icicibank/stringutils.java"
--'  1  54  ~/Desktop/icicibank/stringutils.java
-|4,39,1,54,1696400062,"~/Desktop/icicibank/stringutils.java"
--'  1  54  ~/Desktop/icicibank/stringutils.java
-|4,39,1,54,1696400062,"~/Desktop/icicibank/stringutils.java"
--'  1  54  ~/Desktop/icicibank/stringutils.java
-|4,39,1,54,1696400062,"~/Desktop/icicibank/stringutils.java"
--'  1  54  ~/Desktop/icicibank/stringutils.java
-|4,39,1,54,1696400062,"~/Desktop/icicibank/stringutils.java"
--'  1  54  ~/Desktop/icicibank/stringutils.java
-|4,39,1,54,1696400062,"~/Desktop/icicibank/stringutils.java"
--'  1  54  ~/Desktop/icicibank/stringutils.java
-|4,39,1,54,1696400062,"~/Desktop/icicibank/stringutils.java"
--'  1  54  ~/Desktop/icicibank/stringutils.java
-|4,39,1,54,1696400062,"~/Desktop/icicibank/stringutils.java"
--'  1  54  ~/Desktop/icicibank/stringutils.java
-|4,39,1,54,1696400062,"~/Desktop/icicibank/stringutils.java"
--'  1  54  ~/Desktop/icicibank/stringutils.java
-|4,39,1,54,1696400062,"~/Desktop/icicibank/stringutils.java"
--'  1  54  ~/Desktop/icicibank/stringutils.java
-|4,39,1,54,1696400062,"~/Desktop/icicibank/stringutils.java"
--'  1  54  ~/Desktop/icicibank/stringutils.java
-|4,39,1,54,1696400062,"~/Desktop/icicibank/stringutils.java"
--'  1  54  ~/Desktop/icicibank/stringutils.java
-|4,39,1,54,1696400062,"~/Desktop/icicibank/stringutils.java"
--'  1  54  ~/Desktop/icicibank/stringutils.java
-|4,39,1,54,1696400062,"~/Desktop/icicibank/stringutils.java"
--'  1  54  ~/Desktop/icicibank/stringutils.java
-|4,39,1,54,1696400062,"~/Desktop/icicibank/stringutils.java"
--'  1  54  ~/Desktop/icicibank/stringutils.java
-|4,39,1,54,1696400062,"~/Desktop/icicibank/stringutils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  4  0  ~/Desktop/icicibank/DBUtils.java
-|4,39,4,0,1696398849,"~/Desktop/icicibank/DBUtils.java"
--'  1  35  ~/Desktop/icicibank/DBUtils.java
-|4,39,1,35,1696398805,"~/Desktop/icicibank/DBUtils.java"
--'  1  35  ~/Desktop/icicibank/DBUtils.java
-|4,39,1,35,1696398805,"~/Desktop/icicibank/DBUtils.java"
--'  1  35  ~/Desktop/icicibank/DBUtils.java
-|4,39,1,35,1696398805,"~/Desktop/icicibank/DBUtils.java"
--'  1  35  ~/Desktop/icicibank/DBUtils.java
-|4,39,1,35,1696398805,"~/Desktop/icicibank/DBUtils.java"
--'  1  35  ~/Desktop/icicibank/DBUtils.java
-|4,39,1,35,1696398805,"~/Desktop/icicibank/DBUtils.java"
--'  1  35  ~/Desktop/icicibank/DBUtils.java
-|4,39,1,35,1696398805,"~/Desktop/icicibank/DBUtils.java"
--'  1  35  ~/Desktop/icicibank/DBUtils.java
-|4,39,1,35,1696398805,"~/Desktop/icicibank/DBUtils.java"
--'  1  35  ~/Desktop/icicibank/DBUtils.java
-|4,39,1,35,1696398805,"~/Desktop/icicibank/DBUtils.java"
--'  1  35  ~/Desktop/icicibank/DBUtils.java
-|4,39,1,35,1696398805,"~/Desktop/icicibank/DBUtils.java"
--'  1  35  ~/Desktop/icicibank/DBUtils.java
-|4,39,1,35,1696398805,"~/Desktop/icicibank/DBUtils.java"
--'  1  35  ~/Desktop/icicibank/DBUtils.java
-|4,39,1,35,1696398805,"~/Desktop/icicibank/DBUtils.java"
--'  1  35  ~/Desktop/icicibank/DBUtils.java
-|4,39,1,35,1696398805,"~/Desktop/icicibank/DBUtils.java"
--'  1  35  ~/Desktop/icicibank/DBUtils.java
-|4,39,1,35,1696398805,"~/Desktop/icicibank/DBUtils.java"
+-'  1  21  ~/DBUtils.java
+|4,39,1,21,1696935942,"~/DBUtils.java"
+-'  1  32  ~/Desktop/yesbank/DBUtils.java
+|4,39,1,32,1696926579,"~/Desktop/yesbank/DBUtils.java"
+-'  1  32  ~/Desktop/yesbank/DBUtils.java
+|4,39,1,32,1696926579,"~/Desktop/yesbank/DBUtils.java"
+-'  1  34  ~/Desktop/yesbank/test.py
+|4,39,1,34,1696926428,"~/Desktop/yesbank/test.py"
+-'  1  34  ~/Desktop/yesbank/test.py
+|4,39,1,34,1696926428,"~/Desktop/yesbank/test.py"
+-'  1  34  ~/Desktop/yesbank/test.py
+|4,39,1,34,1696926428,"~/Desktop/yesbank/test.py"
+-'  1  34  ~/Desktop/yesbank/test.py
+|4,39,1,34,1696926428,"~/Desktop/yesbank/test.py"
+-'  1  40  ~/Desktop/yesbank/test.c
+|4,39,1,40,1696926378,"~/Desktop/yesbank/test.c"
+-'  1  40  ~/Desktop/yesbank/test.c
+|4,39,1,40,1696926378,"~/Desktop/yesbank/test.c"
+-'  1  40  ~/Desktop/yesbank/test.c
+|4,39,1,40,1696926378,"~/Desktop/yesbank/test.c"
+-'  1  40  ~/Desktop/yesbank/test.c
+|4,39,1,40,1696926378,"~/Desktop/yesbank/test.c"
+-'  1  40  ~/Desktop/yesbank/test.c
+|4,39,1,40,1696926378,"~/Desktop/yesbank/test.c"
+-'  1  40  ~/Desktop/yesbank/test.c
+|4,39,1,40,1696926378,"~/Desktop/yesbank/test.c"
+-'  1  40  ~/Desktop/yesbank/test.c
+|4,39,1,40,1696926378,"~/Desktop/yesbank/test.c"
+-'  1  40  ~/Desktop/yesbank/test.c
+|4,39,1,40,1696926378,"~/Desktop/yesbank/test.c"
+-'  1  47  ~/Desktop/yesbank/deploy.sh
+|4,39,1,47,1696925461,"~/Desktop/yesbank/deploy.sh"
+-'  1  47  ~/Desktop/yesbank/deploy.sh
+|4,39,1,47,1696925461,"~/Desktop/yesbank/deploy.sh"
+-'  1  47  ~/Desktop/yesbank/deploy.sh
+|4,39,1,47,1696925461,"~/Desktop/yesbank/deploy.sh"
+-'  1  47  ~/Desktop/yesbank/deploy.sh
+|4,39,1,47,1696925461,"~/Desktop/yesbank/deploy.sh"
+-'  1  47  ~/Desktop/yesbank/deploy.sh
+|4,39,1,47,1696925461,"~/Desktop/yesbank/deploy.sh"
+-'  1  47  ~/Desktop/yesbank/deploy.sh
+|4,39,1,47,1696925461,"~/Desktop/yesbank/deploy.sh"
+-'  1  47  ~/Desktop/yesbank/deploy.sh
+|4,39,1,47,1696925461,"~/Desktop/yesbank/deploy.sh"
+-'  1  47  ~/Desktop/yesbank/deploy.sh
+|4,39,1,47,1696925461,"~/Desktop/yesbank/deploy.sh"
+-'  1  47  ~/Desktop/yesbank/deploy.sh
+|4,39,1,47,1696925461,"~/Desktop/yesbank/deploy.sh"
+-'  1  47  ~/Desktop/yesbank/deploy.sh
+|4,39,1,47,1696925461,"~/Desktop/yesbank/deploy.sh"
+-'  1  47  ~/Desktop/yesbank/deploy.sh
+|4,39,1,47,1696925461,"~/Desktop/yesbank/deploy.sh"
+-'  1  47  ~/Desktop/yesbank/deploy.sh
+|4,39,1,47,1696925461,"~/Desktop/yesbank/deploy.sh"
+-'  1  47  ~/Desktop/yesbank/deploy.sh
+|4,39,1,47,1696925461,"~/Desktop/yesbank/deploy.sh"
+-'  1  47  ~/Desktop/yesbank/deploy.sh
+|4,39,1,47,1696925461,"~/Desktop/yesbank/deploy.sh"
+-'  1  47  ~/Desktop/yesbank/deploy.sh
+|4,39,1,47,1696925461,"~/Desktop/yesbank/deploy.sh"
+-'  1  47  ~/Desktop/yesbank/deploy.sh
+|4,39,1,47,1696925461,"~/Desktop/yesbank/deploy.sh"
+-'  1  21  ~/Desktop/yesbank/DBUtils.java
+|4,39,1,21,1696925350,"~/Desktop/yesbank/DBUtils.java"
+-'  1  21  ~/Desktop/yesbank/DBUtils.java
+|4,39,1,21,1696925350,"~/Desktop/yesbank/DBUtils.java"
+-'  1  21  ~/Desktop/yesbank/DBUtils.java
+|4,39,1,21,1696925350,"~/Desktop/yesbank/DBUtils.java"
+-'  1  21  ~/Desktop/yesbank/DBUtils.java
+|4,39,1,21,1696925350,"~/Desktop/yesbank/DBUtils.java"
+-'  1  21  ~/Desktop/yesbank/DBUtils.java
+|4,39,1,21,1696925350,"~/Desktop/yesbank/DBUtils.java"
+-'  1  21  ~/Desktop/yesbank/DBUtils.java
+|4,39,1,21,1696925350,"~/Desktop/yesbank/DBUtils.java"
+-'  1  21  ~/Desktop/yesbank/DBUtils.java
+|4,39,1,21,1696925350,"~/Desktop/yesbank/DBUtils.java"
+-'  1  21  ~/Desktop/yesbank/DBUtils.java
+|4,39,1,21,1696925350,"~/Desktop/yesbank/DBUtils.java"
+-'  1  21  ~/Desktop/yesbank/DBUtils.java
+|4,39,1,21,1696925350,"~/Desktop/yesbank/DBUtils.java"
+-'  1  21  ~/Desktop/yesbank/DBUtils.java
+|4,39,1,21,1696925350,"~/Desktop/yesbank/DBUtils.java"
+-'  1  21  ~/Desktop/yesbank/DBUtils.java
+|4,39,1,21,1696925350,"~/Desktop/yesbank/DBUtils.java"
+-'  1  21  ~/Desktop/yesbank/DBUtils.java
+|4,39,1,21,1696925350,"~/Desktop/yesbank/DBUtils.java"
+-'  1  21  ~/Desktop/yesbank/DBUtils.java
+|4,39,1,21,1696925350,"~/Desktop/yesbank/DBUtils.java"
+-'  1  21  ~/Desktop/yesbank/DBUtils.java
+|4,39,1,21,1696925350,"~/Desktop/yesbank/DBUtils.java"
+-'  1  21  ~/Desktop/yesbank/DBUtils.java
+|4,39,1,21,1696925350,"~/Desktop/yesbank/DBUtils.java"
+-'  1  21  ~/Desktop/yesbank/DBUtils.java
+|4,39,1,21,1696925350,"~/Desktop/yesbank/DBUtils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
+-'  1  52  ~/Desktop/yesbank/stringutils.java
+|4,39,1,52,1696922050,"~/Desktop/yesbank/stringutils.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/DBUtils.java
+	*	1696935939	0
+	"	1	21
+	^	1	22
+	.	1	21
+	+	1	21
+
+> ~/Desktop/yesbank/DBUtils.java
+	*	1696926575	0
+	"	1	32
+	^	1	33
+	.	1	32
+	+	1	0
+	+	5	0
+	+	1	0
+	+	3	0
+	+	1	32
+
+> ~/Desktop/yesbank/test.py
+	*	1696926424	0
+	"	1	34
+	^	1	35
+	.	1	34
+	+	1	34
+
+> ~/Desktop/yesbank/test.c
+	*	1696926374	0
+	"	1	40
+	^	1	41
+	.	1	40
+	+	1	40
+
+> ~/Desktop/yesbank/deploy.sh
+	*	1696925457	0
+	"	1	47
+	^	1	48
+	.	1	47
+	+	1	47
+
+> ~/Desktop/yesbank/stringutils.java
+	*	1696922046	0
+	"	1	52
+	^	1	53
+	.	1	52
+	+	1	52
 
 > ~/Desktop/icicibank/.git/yesbank/yesbank/stringutils.java
 	*	1696608693	0
@@ -382,45 +428,3 @@
 	^	1	38
 	.	1	37
 	+	1	37
-
-> ~/Desktop/icicibank/test.jh
-	*	1696303014	0
-	"	1	39
-	^	1	40
-	.	1	39
-	+	1	39
-
-> ~/Desktop/icicibank/test.py
-	*	1696302754	0
-	"	1	33
-	^	1	34
-	.	1	35
-	+	1	35
-
-> ~/Desktop/icicibank/test.jv
-	*	1696262825	0
-	"	1	37
-	^	1	38
-	.	1	37
-	+	1	37
-
-> ~/Desktop/icicibank/test
-	*	1696258483	0
-	"	1	38
-	^	1	39
-	.	1	38
-	+	1	38
-
-> ~/.gitignore
-	*	1696257554	0
-	"	4	0
-	^	4	0
-	.	3	13
-	+	3	13
-
-> ~/Desktop/icicibank/StringUtils.java
-	*	1696138431	0
-	"	1	50
-	^	1	51
-	.	1	50
-	+	1	50

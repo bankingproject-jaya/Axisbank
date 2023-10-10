@@ -1,126 +1,3 @@
-cat nanotest.txt
-ls
-pwd
-cat Python/nanotest.txt
-cat Python/jvlsflink.txt
-cd Python/
-cat nanotest.txt
-cat jvlsflink.txt
-cat Python.txt
-cat python.txt
-ls
-cat jayavel.txt jvlsflink.txt jvl.txt
-cd ..
-ls
-cat sudoers
-uname
-cat sudoers
-cat -n sudoers
-clear
-head sudoers
-head -n 20 sudoers
-tail sudoers
--h
-clear
-tail sudoers
-cat -n sudoers
-tail -n 2 sudoers
-cat sudoers
-clear
-cat sudoers
-uname
-clear
-echo Hello world
-echo        Hello world
-echo "Hello world"
-echo 'Hello world"
-
-eho 'Hello world'
-echo 'Hello world'
-echo 'Hello world"
-
-
-echo 'Hello world'
-cat Python/
-ls
-echo 'Hello  world'
-echo 'Hello world"
-
-
-'
-cat Python/
-cat Python
-cat nanotest.txt
-ls
-clear
-pwd
-cat Python/jayavel.txt
-cd Python/
-cat jayavel.txt
-ls
-cat depaak.txt jayavel.txt jvl.txt
-cd ..
-ls
-tree
-clear
-cat sudoers
-cat -n sudoers
-clear
-head sudoers
-head -n 20 sudoers
-tail sudoers
-clear
-tail sudoers
-cat -n sudoers
-clear
-tail -n 2 sudoers
-cat sudoers
-clear
-cat -f sudoers
-tail -f sudoers
-sed "100p" sudoers
-clear
-sed -n "100p" sudoers
-sed -n "100,112p" sudoers
-more sudoers
-loss sudoers
-less sudoers
-clear
-more sudoers
-clear
-less sudoers
-vi frnds.txt
-cat frnds.txt
-sort frnds.txt
-sort -r frnds.txt
-cat frnds.txt
-cat frnds | sort
-cat frnds.txt | sort -r
-cat frnds.txt | sort
-cat frnds.txt | sort -r
-cat frnds.txt | sort |tr [a-z] [A-Z]
-clear
-vi sample.txt
-sed "s/red/blue/" sample.txt
-sed "s/red/blue/g" sample.txt
-cat sample.txt
-sed -i "s/red/blue/g" sample.txt
-cat sample.txt
-grep gethisha frnds.txt
-grep vajram frnds.txt
-grep -i Vajram frnds.txt
-cat frnds.txt | grep vajram
-cat frnds.txt | grepm -i vajram
-cat frnds.txt | grep -i vajram
-clear
-who
- who -H
-w
-cat /proc/cpuinfo
-uptime
-clear
-w
-users
 whoami
 whereis mkdir
 whereis java
@@ -998,3 +875,126 @@ git push jurl master
 git pull jurl master
 uname
 clear
+uname
+clear
+git status
+git add .
+git status
+uname
+clear
+git status
+git clean -f .bash_history
+git clean -f .ssh/id_rsa
+git clean -f ssh/id_rsa.pub
+git clean -f ssh/known_hosts
+git status
+git restore
+git status
+exit
+clear
+cd Desktop/
+mkdir yesbank
+cd yesbank
+pwd
+git init
+ git config --global init.defaultBranch
+git init
+ls -la
+cd .git
+ls -la
+ls
+clear
+ls -l
+cd ..
+pwd
+vi DBUtils.java
+vi stringutils.java
+git status
+cd .git/
+git status
+cd ..
+git status
+clear
+git add DBUtils.java
+git status
+git add .
+git status
+git config --global user.name "jayaveltraing"
+git config --global user.email "jayaveldevops22@gmail.com"
+git config --global --list
+pwd
+ls
+git remote add citybank
+git remote add https://github.com/bankingproject-jaya/citybank.git
+git remote -v
+git push yesbank master
+git push yesbank 
+  git push --set-upstream yesbank master
+  git push  yesbank master
+clear
+git push yesbank 
+git status
+git commit -m "first commit"
+git status
+git remote -v
+git remote add citybank https://github.com/bankingproject-jaya/citybank.git
+git remote -v
+git push citybank master
+git remote add Axisbank https://github.com/bankingproject-jaya/Axisbank.git
+git remote -v
+git push Axisbank master
+pwd
+ls
+vi DBUtils.java
+git status
+git commit -a -m "updated"
+git status
+vi deploy.sh
+git status
+git commit -a -m "added deploy.sh"
+git add *
+git status
+git commit -m "added deploy.sh"
+git status
+git push Axisbank master
+clear
+git push Axisbank master
+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 
+git push Axisbank master
+clear
+git status Axisbank master
+git commit -m "added deploy.sh"
+git status
+git status Axisbank master
+clear
+git log
+git log -2
+git log DBUtils.java
+git show ff1f11427917cb7f
+clear
+cd Desktop/yesbank/
+pwd
+git status
+touch test.sh
+touch test.py
+git status
+git clean -n
+git status
+git clean -f 
+ls
+git status
+vi test.c
+vi test.py
+git status
+git add .
+git status
+git reset
+git status
+git add *
+git status
+vi DBUtils.java
+git status
+git add .
+git status
+git commit -m "added new file"
+git push Axisbank master
